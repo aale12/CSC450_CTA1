@@ -41,7 +41,11 @@ public:
 	}
 };
 
+<<<<<<< HEAD
 int main3() {
+=======
+int main() {
+>>>>>>> 9fdb554 (test)
 
 	//create instance of person
 	Person person;
